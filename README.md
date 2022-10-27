@@ -19,7 +19,7 @@ The goal of this project to practice HTML, CSS and JavaScript skills and to impr
 
 ## Screenshot
 
-
+![](./images/interactiveratingcomponentscreenshot.png)
 
 
 
